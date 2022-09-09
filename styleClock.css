@@ -4,8 +4,8 @@ body{
 }
 h1{
     /* background: rgb(248, 223, 223); */
-    background: rgb(171, 171, 171);
-    background-image: linear-gradient(rgb(171, 171, 171),rgb(250, 217, 217),rgb(171, 171, 171));
+    /* background: rgb(171, 171, 171); */
+    background-image: linear-gradient(rgb(171, 171, 171),white,rgb(171, 171, 171));
     font-size:45px;
     font-family: cursive;
     /* margin-left:auto;
