@@ -14,6 +14,6 @@ function dayDateTimer(){
    
     // console.log(hh + ":" + mm +":" + ss +"<br>"+day+"-"+month+"-"+year);
     document.getElementById("date-time-clock").value = hh + ":" + mm +":"
-             + ss +"\n"+day+"-"+month+"-"+year; 
+             + ss +"\n"+day+"-"+(month+1)+"-"+year; 
 }
 setInterval(dayDateTimer, 1000);
